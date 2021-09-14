@@ -1,0 +1,18 @@
+{
+  "id": 19920412124,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "Valentina",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 2021,
+      "name": "sta"
+    }
+  ],
+  "status": "available"
+}
